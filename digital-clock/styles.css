@@ -8,6 +8,10 @@
 
 body {
     background-color: white;
+    background-image: url(matrix-binary-wallpaper.jfif);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
 }
 
 .main {
